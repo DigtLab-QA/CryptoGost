@@ -29,10 +29,10 @@ const config = {
     links: [{ text: '', link: '' }],
     search: {
       enabled: true,
-      indexName: 'Kloud',
-      algoliaAppId: "ALEC0WYN85",
-      algoliaSearchKey: "5b3e9e822ca6424f23ac7eabae6576e9",
-      algoliaAdminKey: "3a662f2a97971b3daa07d1509dc3cf44",
+      indexName: 'Crgost',
+      algoliaAppId: "YSUPZ6O4QF",
+      algoliaSearchKey: "a9c5865fedb6fa111eba7be1fffb6ac8",
+      algoliaAdminKey: "856f676628f9f739513bb0757591b2cc",
     },
   },
   sidebar: {
