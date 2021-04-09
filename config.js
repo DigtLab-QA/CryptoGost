@@ -1,13 +1,13 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://zkh.kloud.one/',
+    siteUrl: 'https://cryptoarm.ru/',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
-    logo: 'https://raw.githubusercontent.com/DigtLab-QA/KloudOne/master/src/images/kloudone.png',
-    logoLink: 'https://zkh.kloud.one/',
+    logo: 'https://raw.githubusercontent.com/DigtLab-QA/CryptoGost/master/src/images/cryptogost.png',
+    logoLink: 'https://cryptoarm.ru//',
     title: '',
     githubUrl: '',
     helpUrl: '',
@@ -44,14 +44,14 @@ const config = {
 
     ],
     collapsedNav: [],
-    links: [{ text: 'KLOUD.ONE', link: 'https://zkh.kloud.one/' }],
+    links: [{ text: 'КриптоАРМ ГОСТ', link: 'https://cryptoarm.ru/' }],
     frontline: false,
     ignoreIndex: true,
     title:
-      "<a href='https://zkh.kloud.one/'>KLOUD.ONE </a>",
+      "<a href='https://cryptoarm.ru/'>КриптоАРМ ГОСТ </a>",
   },
   siteMetadata: {
-    title: 'GitDocs KLOUD.ONE',
+    title: 'GitDocs CRYPTO.GOST',
     description: 'Documentation built with mdx.',
     ogImage: null,
     docsLocation: '',
@@ -60,8 +60,8 @@ const config = {
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
     manifest: {
-      name: 'GitDocs KLOUD.ONE',
-      short_name: 'GitDocs KLOUD.ONE',
+      name: 'GitDocs CRYPTO.GOST',
+      short_name: 'GitDocs CRYPTO.GOST',
       start_url: '/',
       background_color: '#6b37bf',
       theme_color: '#6b37bf',
