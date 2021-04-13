@@ -6,7 +6,7 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://raw.githubusercontent.com/DigtLab-QA/CryptoGost/master/src/images/cryptogost.png',
+    logo: 'https://raw.githubusercontent.com/DigtLab-QA/CryptoGost/master/src/images/cryptogost.svg',
     logoLink: 'https://cryptoarm.ru//',
     title: '',
     githubUrl: '',
@@ -40,7 +40,9 @@ const config = {
       '1-about',
       '2-repare_to_working',
       '3-work_with_product',
-      '4-instructions'
+      '4-instructions',
+      'v2.5.11',
+      'faq'
 
     ],
     collapsedNav: [],
