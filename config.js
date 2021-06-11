@@ -45,7 +45,7 @@ const config = {
       'faq'
 
     ],
-    collapsedNav: ["/v2.5.11"],
+    collapsedNav: ["/v2.5.11","/faq"],
     links: [{ text: 'КриптоАРМ ГОСТ', link: 'https://cryptoarm.ru/' }],
     frontline: false,
     ignoreIndex: true,
