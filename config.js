@@ -37,16 +37,12 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '1-about',
-      '2-repare_to_working',
-      '3-work_with_product',
-      '4-instructions',
       'v2.5.11',
       'v3.0-Beta',
-      'F.A.Q'
+      'faq'
 
     ],
-    collapsedNav: ["/v2.5.11","/v3.0-Beta","/F.A.Q"],
+    collapsedNav: ["/v2.5.11","/v3.0-Beta","/faq"],
     links: [{ text: 'КриптоАРМ ГОСТ', link: 'https://cryptoarm.ru/' }],
     frontline: false,
     ignoreIndex: true,
