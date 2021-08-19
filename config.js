@@ -42,10 +42,11 @@ const config = {
       '3-work_with_product',
       '4-instructions',
       'v2.5.11',
+      'v3.0-Beta',
       'faq'
 
     ],
-    collapsedNav: ["/v2.5.11","/faq"],
+    collapsedNav: ["/v2.5.11","/faq","/v3.0-Beta"],
     links: [{ text: 'КриптоАРМ ГОСТ', link: 'https://cryptoarm.ru/' }],
     frontline: false,
     ignoreIndex: true,
