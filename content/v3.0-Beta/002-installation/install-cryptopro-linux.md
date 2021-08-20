@@ -30,21 +30,21 @@ sort: "06"
 
 1. Установите пакеты и драйвера для работы с ключевыми носителями с помощью команд в терминале:
 
-	**sudo dpkg -i /\<путь к файлу\>/cprocsp-rdr-pcsc-\<...\>.deb**  
+	**sudo dpkg -i \<путь к файлу\>/cprocsp-rdr-pcsc-\<...\>.deb**  
 
 2. Для ключевого носителя **Рутокен**:
 
-	**sudo dpkg -i /\<путь к файлу\>/cprocsp-rdr-rutoken-\<...\>.deb**
+	**sudo dpkg -i \<путь к файлу\>/cprocsp-rdr-rutoken-\<...\>.deb**
 
-	**sudo dpkg -i /\<путь к файлу\>/ifd-rutokens_\<...\>.deb**
+	**sudo dpkg -i \<путь к файлу\>/ifd-rutokens_\<...\>.deb**
 
 3. Для ключевого носителя **JaCarta**:
 
-	**sudo dpkg -i /\<путь к файлу\>/cprocsp-rdr-jacarta -\<...\>.deb**
+	**sudo dpkg -i \<путь к файлу\>/cprocsp-rdr-jacarta -\<...\>.deb**
 
 4. Для ключевого носителя **ESMART**:
 
-	**sudo dpkg -i /\<путь к файлу\>/cprocsp-rdr-esmart -\<...\>.deb**
+	**sudo dpkg -i \<путь к файлу\>/cprocsp-rdr-esmart -\<...\>.deb**
 
 ## Установка лицензии на КриптоПро CSP
 
@@ -64,7 +64,7 @@ sort: "06"
 
 3. Установите пакет:
 
--   **sudo dpkg –i /\<путь к файлу\>/cprocsp-pki-х.х.х-amd64-cades.deb** 
+-   **sudo dpkg –i \<путь к файлу\>/cprocsp-pki-х.х.х-amd64-cades.deb** 
 
 Для создания подписи со штампом времени или усовершенствованной подписи необходима установка лицензии на модули TSP и/или OCSP.
 
@@ -83,10 +83,10 @@ sort: "06"
 ## Настройки для работы с КриптоПро CSP 4
 
 1. Установите пакет cprocsp-rsa из дистрибутива КриптоПро: 
-   **sudo dpkg -i /\<путь к файлу\>/cprocsp-rsa-\<...\>.deb**
+   **sudo dpkg -i \<путь к файлу\>/cprocsp-rsa-\<...\>.deb**
 2. Скачайте скрипт https://drive.google.com/file/d/11Ts3wshs0-Fy7mc5NACKEb1x7fEu9oAy/view?usp=sharing
 3. В терминале введите команду:
-   **chmod u+x /\<путь к скрипту\>/script.sh**
+   **chmod u+x \<путь к скрипту\>/script.sh**
 4. Далее введите команду:
-   **sudo bash /\<путь к скрипту\>/script.sh**
+   **sudo bash \<путь к скрипту\>/script.sh**
 	В результату выполнения команды должно быть сообщение Operations done.

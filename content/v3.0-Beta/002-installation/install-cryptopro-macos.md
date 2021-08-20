@@ -35,7 +35,7 @@ sort: "05"
 1. При установке КриптоПро CSP выберите пакет cprocsp-rsa.
 2. Скачайте скрипт https://drive.google.com/file/d/11Ts3wshs0-Fy7mc5NACKEb1x7fEu9oAy/view?usp=sharing
 3. В терминале введите команду:
-   **chmod u+x /\<путь к скрипту\>/script.sh**
+   **chmod u+x \<путь к скрипту\>/script.sh**
 4. Далее введите команду:
-   **sudo /\<путь к скрипту\>/script.sh**  
+   **sudo \<путь к скрипту\>/script.sh**  
 	В результату выполнения команды должно быть сообщение Operations done.
