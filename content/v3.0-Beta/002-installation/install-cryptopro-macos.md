@@ -14,7 +14,7 @@ sort: "05"
 
 1. Скачайте архив **Apple MacOS** по ссылке [КриптоПро ЭЦП SDK 2.0](https://www.cryptopro.ru/products/cades/downloads) (требуется предварительная регистрация).
 
-2. Установите пакет cprocsp-pki-x.x.x.pkg, следуя инструкциям на каждом шагу установщика.
+2. Установите пакет cprocsp-pki-x.x.x.pkg, следуя инструкциям на каждом шаге установщика.
 
 Для создания подписи со штампом времени или усовершенствованной подписи необходима установка лицензии на модули TSP и/или OCSP. 
 
@@ -24,9 +24,9 @@ sort: "05"
 
 1. Откройте терминал.
 2. Введите лицензию на модуль TSP командой:
-**sudo /Applications/CryptoPro_ECP.app/Contents/MacOS/bin/tsputill license -s \<серийный_номер\>** 
+**sudo /Applications/CryptoPro_ECP.app/Contents/MacOS/bin/tsputill license -s \<серийный-номер\>** 
 3. Введите лицензию на модуль OCSP командой :
-**sudo /Applications/CryptoPro_ECP.app/Contents/MacOS/bin/ocsputil license -s \<серийный_номер\>**
+**sudo /Applications/CryptoPro_ECP.app/Contents/MacOS/bin/ocsputil license -s \<серийный-номер\>**
 
 ***Примечание:*** серийный номер следует вводить с соблюдением регистра символов.
 
@@ -35,7 +35,7 @@ sort: "05"
 1. При установке КриптоПро CSP выберите пакет cprocsp-rsa.
 2. Скачайте скрипт https://drive.google.com/file/d/11Ts3wshs0-Fy7mc5NACKEb1x7fEu9oAy/view?usp=sharing
 3. В терминале введите команду:
-   **chmod u+x \<путь к скрипту\>/script.sh**
+   **chmod u+x /\<путь к скрипту\>/script.sh**
 4. Далее введите команду:
-   **sudo \<путь к скрипту\>/script.sh**
+   **sudo /\<путь к скрипту\>/script.sh**  
 	В результату выполнения команды должно быть сообщение Operations done.
