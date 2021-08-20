@@ -66,5 +66,5 @@ sort: "02"
   
 1. [Как редактировать профиль подписи.](./edit-profile-sign.md)  
 2. [Как переключаться между профилями подписи.](./select-profile.md)  
-3. [Как создать контакт.](./006-contacts/add-contact.md)  
-4. [Как привязать сертификат к контакту.](./006-contacts/link-contact-cert.md)  
+3. [Как создать контакт.](../006-contacts/add-contact.md)  
+4. [Как привязать сертификат к контакту.](../006-contacts/link-contact-cert.md)  
