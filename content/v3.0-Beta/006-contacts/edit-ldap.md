@@ -14,5 +14,5 @@ sort: "09"
  При успешном подключении контакты адресной книги LDAP обновятся. 
 
  **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как удалить адресную книгу LDAP.](./delete-ldap.md)   
-2. [Как посмотреть информацию о контакте.](./view-contact.md)  
+1. [Как удалить адресную книгу LDAP.](https://docs.cryptoarm.ru/v3.0-Beta/006-contacts/delete-ldap)   
+2. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/v3.0-Beta/006-contacts/view-contact)  

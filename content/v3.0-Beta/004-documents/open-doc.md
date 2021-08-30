@@ -19,4 +19,4 @@ sort: "04"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как посмотреть информацию о документе.](./view-docs-info.md)  
+1. [Как посмотреть информацию о документе.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/view-docs-info)  

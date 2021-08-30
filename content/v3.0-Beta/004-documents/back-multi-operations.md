@@ -37,8 +37,8 @@ sort: "23"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
 
-1. [Как добавить документы в мастер.](./add-docs.md)  
-4. [Как посмотреть уведомления.](../007-cryptoarm/notifications.md)  
-5. [Как проверить подпись.](./verify.md)  
-6. [Действия с результатами операций.](./operations-result.md)  
+1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/add-docs)  
+4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/v3.0-Beta/007-cryptoarm/notifications)  
+5. [Как проверить подпись.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/verify)  
+6. [Действия с результатами операций.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/operations-result)  
 

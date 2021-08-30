@@ -51,6 +51,6 @@ sort: "01"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
 
-1. [Как установить корневой и промежуточный сертификаты.](./import-UC-certs.md)  
-2. [Как импортировать список отзыва сертификатов (СОС).](./import-crl.md)  
-3. [Как посмотреть уведомления.](./007-cryptoarm/notifications.md)  
+1. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/v3.0-Beta/005-certs/import-UC-certs)  
+2. [Как импортировать список отзыва сертификатов (СОС).](https://docs.cryptoarm.ru/v3.0-Beta/005-certs/import-crl)  
+3. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/v3.0-Beta/007-cryptoarm/notifications)  
