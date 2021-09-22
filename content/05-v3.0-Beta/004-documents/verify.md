@@ -63,9 +63,9 @@ sort: "19"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**
 
-1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/add-docs)
-2. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/v3.0-Beta/007-cryptoarm\notifications)
-3. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/v3.0-Beta/005-certs\import-UC-certs)
-4. [Действия с результатами операций.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/operations-result)
+1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/add-docs)
+2. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/05-v3.0-Beta/007-cryptoarm\notifications)
+3. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/05-v3.0-Beta/005-certs\import-UC-certs)
+4. [Действия с результатами операций.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/operations-result)
 
 

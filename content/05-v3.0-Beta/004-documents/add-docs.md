@@ -32,8 +32,8 @@ sort: "13"
    - нажмите кнопку **Загрузить с компьютера** для пустого приска файлов, или  кнопку ![add-file-button.jpg](./images/add-file-button.jpg "Добавить файл") на панели действий, а затем в файловом менеджере выберите необходимые документы.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как подписать документ.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/sign)  
-4. [Как зашифровать документ.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/cipher)  
-5. [Как расшифровать документ.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/decrypt)  
-6. [Как снять подпись с документа.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/remove-sign)
+1. [Как подписать документ.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/sign)  
+4. [Как зашифровать документ.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/cipher)  
+5. [Как расшифровать документ.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/decrypt)  
+6. [Как снять подпись с документа.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/remove-sign)
 

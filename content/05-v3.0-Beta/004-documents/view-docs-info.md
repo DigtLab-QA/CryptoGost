@@ -28,4 +28,4 @@ sort: "03"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**
 
-1. [Как проверить подпись документа.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/verify)  
+1. [Как проверить подпись документа.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/verify)  

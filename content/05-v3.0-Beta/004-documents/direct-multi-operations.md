@@ -38,11 +38,11 @@ sort: "22"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/create-profile)  
-2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/select-profile)  
-3. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/add-docs)  
-4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/v3.0-Beta/007-cryptoarm/notifications)  
-5. [Действия с результатами операций.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/operations-result)  
-6. [Как выбрать сертификат подписи.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/select-sign-cert)  
-7. [Как выбрать сертификат шифрования.](https://docs.cryptoarm.ru/v3.0-Beta/004-documents/select-cipher-certs)  
+1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/create-profile)  
+2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/select-profile)  
+3. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/add-docs)  
+4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/05-v3.0-Beta/007-cryptoarm/notifications)  
+5. [Действия с результатами операций.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/operations-result)  
+6. [Как выбрать сертификат подписи.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/select-sign-cert)  
+7. [Как выбрать сертификат шифрования.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/select-cipher-certs)  
 
