@@ -34,7 +34,7 @@ sort: "06"
 Если создании запроса возникает ошибка, она выводится как уведомление в правом верхнем углу. Вы можете посмотерть уведомления, нажав на иконку ![notifications-button.jpg](./images/notifications-button.jpg "События"). Для просмотра подробного описания ошибки или отправки в техническую поддержку нажмите ![to-log-button.jpg](./images/to-log-button.jpg "Перейти в журнал") в правой боковой панели списка уведомлений.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/v3.0-Beta/005-certs/import-UC-certs)  
-2. [Как импортировать список отзыва сертификатов (СОС).](https://docs.cryptoarm.ru/v3.0-Beta/005-certs/import-crl)  
-4. [Как установить личный сертификат.](https://docs.cryptoarm.ru/v3.0-Beta/005-certs/import-my-cert)  
-5.  [Как посмотреть уведомления.](https://docs.cryptoarm.ru/v3.0-Beta/007-cryptoarm/notifications)  
+1. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/05-v3.0-Beta/005-certs/import-UC-certs)  
+2. [Как импортировать список отзыва сертификатов (СОС).](https://docs.cryptoarm.ru/05-v3.0-Beta/005-certs/import-crl)  
+4. [Как установить личный сертификат.](https://docs.cryptoarm.ru/05-v3.0-Beta/005-certs/import-my-cert)  
+5.  [Как посмотреть уведомления.](https://docs.cryptoarm.ru/05-v3.0-Beta/007-cryptoarm/notifications)  

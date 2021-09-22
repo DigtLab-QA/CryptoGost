@@ -29,6 +29,6 @@ sort: "01"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/v3.0-Beta/006-contacts/link-contact-cert)  
-2. [Как удалять локальные контакты.](https://docs.cryptoarm.ru/v3.0-Beta/006-contacts/delete-contact)  
-3. [Как редактировать локальные контакты.](https://docs.cryptoarm.ru/v3.0-Beta/006-contacts/edit-contact)  
+1. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/link-contact-cert)  
+2. [Как удалять локальные контакты.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/delete-contact)  
+3. [Как редактировать локальные контакты.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/edit-contact)  

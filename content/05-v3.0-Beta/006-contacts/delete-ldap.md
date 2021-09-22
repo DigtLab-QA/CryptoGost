@@ -13,5 +13,5 @@ sort: "10"
 Адресная книга удаляется. Удаляются все загруженные из нее контакты.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/v3.0-Beta/006-contacts/add-ldap)  
-2. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/v3.0-Beta/view-contact)  
+1. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/add-ldap)  
+2. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/05-v3.0-Beta/view-contact)  

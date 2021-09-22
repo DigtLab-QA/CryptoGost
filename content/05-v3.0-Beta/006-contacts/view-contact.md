@@ -13,7 +13,7 @@ sort: "04"
 Область просмотра контакта отображается на боковой панели справа.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/v3.0-Beta/006-contacts/edit-contact)  
-2. [Как переключаться между адресными книгами.](https://docs.cryptoarm.ru/v3.0-Beta/006-contacts/select-books)  
+1. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/edit-contact)  
+2. [Как переключаться между адресными книгами.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/select-books)  
 
 

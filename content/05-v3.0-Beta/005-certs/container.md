@@ -53,4 +53,4 @@ sort: "09"
 Вы можете обновить список контейнеров, нажав кнопку ![reload-button.jpg](./images/reload-button.jpg "Обновить"). 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**   
-1. [Как установить личный сертификат.](https://docs.cryptoarm.ru/v3.0-Beta/005-certs/import-my-cert)  
+1. [Как установить личный сертификат.](https://docs.cryptoarm.ru/05-v3.0-Beta/005-certs/import-my-cert)  
