@@ -41,7 +41,7 @@ sort: "01"
 2. [Как открыть документ на просмотр.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/open-doc)  
 3. [Как удалить документы.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/delete-docs)  
 4. [Как создать профиль подписи.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/create-profile)    
-5. [Как подписать документ.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/sing)  
+5. [Как подписать документ.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/sign)  
 6. [Как зашифровать документ.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/cipher)  
 7. [Как проверить подпись.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/verify)  
 8. [Как расшифровать документ.](https://docs.cryptoarm.ru/05-v3.0-Beta/004-documents/decrypt)  
