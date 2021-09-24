@@ -27,6 +27,6 @@ sort: "02"
 4. Нажмите **Сохранить**.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/add-contact)
-2. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/edit-contact)
-3. [Как импортировать сертификаты других пользователей.](https://docs.cryptoarm.ru/05-v3.0-Beta/005-certs/import-certs)  
+1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/add-contact)  
+2. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/05-v3.0-Beta/006-contacts/edit-contact)  
+3. [Как импортировать сертификаты других пользователей.](https://docs.cryptoarm.ru/05-v3.0-Beta/005-certs/import-certs)    
