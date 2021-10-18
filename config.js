@@ -36,7 +36,7 @@ const config = {
     },
   },
   sidebar: {
-    forcedNavOrder: ['01-v2.5.11','05-v3.0-Beta','46-faq'],
+    forcedNavOrder: ['01-v2.5.11','05-v3.0-Beta','06-v3.1-Beta','46-faq'],
     collapsedNav: [],
     links: [{ text: 'КриптоАРМ ГОСТ', link: 'https://cryptoarm.ru/' }],
     frontline: false,
