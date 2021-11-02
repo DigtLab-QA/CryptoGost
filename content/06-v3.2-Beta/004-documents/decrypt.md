@@ -33,9 +33,9 @@ sort: "18"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
 
-1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/create-profile)  
-2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/select-profile)  
-3. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/add-docs)  
-4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/05-v3.2-Beta/007-cryptoarm/notifications)  
-5. [Действия с результатами операций.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/operations-result)  
+1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/create-profile)  
+2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/select-profile)  
+3. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/add-docs)  
+4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2-Beta/007-cryptoarm/notifications)  
+5. [Действия с результатами операций.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/operations-result)  
 

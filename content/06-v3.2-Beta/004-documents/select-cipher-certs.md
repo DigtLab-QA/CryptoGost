@@ -54,8 +54,8 @@ sort: "12"
 3. Сертификат или контакт удаляется из поля **Сертификаты шифрования**.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/create-profile)  
-2. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/edit-profile-sign)  
-3. [Как установить личный сертификат.](https://docs.cryptoarm.ru/05-v3.2-Beta/005-certs/import-my-cert)  
-4. [Как зашифровать документ.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/cipher)  
+1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/create-profile)  
+2. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/edit-profile-sign)  
+3. [Как установить личный сертификат.](https://docs.cryptoarm.ru/06-v3.2-Beta/008-certs/import-my-cert)  
+4. [Как зашифровать документ.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/cipher)  
 

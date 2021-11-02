@@ -21,7 +21,7 @@ sort: "04"
 Информация о контакте открывается для просмотра в новой вкладке.  
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/edit-contact)  
-2. [Как переключаться между адресными книгами.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/select-books)  
+1. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/edit-contact)  
+2. [Как переключаться между адресными книгами.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/select-books)  
 
 

@@ -11,6 +11,6 @@ sort: "12"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/add-ldap)  
-2. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/add-contact)  
-3. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/view-contact)  
+1. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/add-ldap)  
+2. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/add-contact)  
+3. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/view-contact)  

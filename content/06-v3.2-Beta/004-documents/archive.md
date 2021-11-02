@@ -16,7 +16,7 @@ sort: "17"
 4. Включите на верхней панели операцию **Архивировать** ![archive.jpg](./images/archive.jpg "Архивировать"). 
 5. Добавьте документы в список.
 6. При необходимости, выберите каталог сохранения архива, опцию сохранения копии в **Архиве**.  
-7. Нажмите кнопку **Выполнить** ![execute-button.jpg](./images/execute-button.jpg "Выполнить").
+7. Нажмите кнопку ![execute-button.jpg](./images/execute-button.jpg "Выполнить").
 
 # Результат выполнения операции
 
@@ -28,8 +28,8 @@ sort: "17"
 Чтобы каждый раз не задавать операцию в мастере подписи и шифрования, вы можете настроить профиль с архивированием и каталогами сохранения результатов, и выбирать его.  
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/add-docs)  
-2. [Как создать профиль подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/create-profile)  
-3. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/select-profile)    
-5. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/05-v3.2-Beta/007-cryptoarm/notifications)  
-5. [Действия с результатами операций.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/operations-result)  
+1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/add-docs)  
+2. [Как создать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/create-profile)  
+3. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/select-profile)    
+5. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2-Beta/007-cryptoarm/notifications)  
+5. [Действия с результатами операций.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/operations-result)  

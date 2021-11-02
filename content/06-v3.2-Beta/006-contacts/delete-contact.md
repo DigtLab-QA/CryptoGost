@@ -37,5 +37,5 @@ sort: "09"
 Или выделите все контакты в корзине и нажмите на кнопку **Удалить навсегда** ![delete-all.jpg](./images/delete-all.jpg "Удалить навсегда") на панели действий.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как восстановить удаленные контакты из корзины.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/restore-contacts)  
-2. [Как удалить адресную книгу LDAP.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/delete-ldap)  
+1. [Как восстановить удаленные контакты из корзины.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/restore-contacts)  
+2. [Как удалить адресную книгу LDAP.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/delete-ldap)  

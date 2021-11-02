@@ -13,5 +13,5 @@ sort: "06"
 5. Нажмите ![save-button.jpg](./images/save-button.jpg "Сохранить").
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/add-contact)  
-2. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/05-v3.2-Beta/006-contacts/link-contact-cert)  
+1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/add-contact)  
+2. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/link-contact-cert)  

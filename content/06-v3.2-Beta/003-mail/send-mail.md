@@ -78,5 +78,5 @@ sort: "03"
 3. [Как настроить отправку писем с уведомлениями о доставке и прочтении.](https://docs.cryptoarm.ru/06-v3.2-Beta/003-mail/send-mail-notify)  
 5. [Как редактировать настройки почты.](https://docs.cryptoarm.ru/06-v3.2-Beta/003-mail/edit-account)  
 6. [Группировка сообщений в цепочки.](https://docs.cryptoarm.ru/06-v3.2-Beta/003-mail/chain-mail)  
-7. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/05-v3.2-Beta/007-cryptoarm/notifications)  
+7. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2-Beta/007-cryptoarm/notifications)  
 

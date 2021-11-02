@@ -12,6 +12,6 @@ sort: "06"
 6. Нажмите **Сохранить** изменения.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/create-profile)  
-2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/select-profile)  
-3. [Как удалить профиль подписи.](https://docs.cryptoarm.ru/05-v3.2-Beta/004-documents/delete-profile-sign)  
+1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/create-profile)  
+2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/select-profile)  
+3. [Как удалить профиль подписи.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/delete-profile-sign)  

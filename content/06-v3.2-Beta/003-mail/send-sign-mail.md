@@ -86,13 +86,13 @@ sort: "06"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Установка КриптоПро CSP на платформу Windows.](https://docs.cryptoarm.ru/06-v3.2-Beta/002-mail/install-cryptopro-windows)  
-2. [Установка КриптоПро CSP на платформу Linux.](https://docs.cryptoarm.ru/06-v3.2-Beta/002-mail/install-cryptopro-linux)  
-3. [Как установить личный сертификат.](https://docs.cryptoarm.ru/06-v3.2-Beta/005-certs/import-my-cert)  
+1. [Установка КриптоПро CSP на платформу Windows.](https://docs.cryptoarm.ru/06-v3.2-Beta/002-installation/install-cryptopro-windows)  
+2. [Установка КриптоПро CSP на платформу Linux.](https://docs.cryptoarm.ru/06-v3.2-Beta/002-installation/install-cryptopro-linux)  
+3. [Как установить личный сертификат.](https://docs.cryptoarm.ru/06-v3.2-Beta/008-certs/import-my-cert)  
 4. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/06-v3.2-Beta/006-contacts/link-contact-cert)  
 5. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/06-v3.2-Beta/003-mail/send-mail)  
 6. [Как редактировать настройки почты.](https://docs.cryptoarm.ru/06-v3.2-Beta/003-mail/edit-account)  
 7. [Как настроить отправку писем с уведомлениями о доставке и прочтении.](https://docs.cryptoarm.ru/06-v3.2-Beta/003-mail/send-mail-notify)  
-8. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/05-v3.2-Beta/007-cryptoarm/notifications)  
+8. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2-Beta/007-cryptoarm/notifications)  
 
 
