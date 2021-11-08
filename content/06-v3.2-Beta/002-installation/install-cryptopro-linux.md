@@ -30,27 +30,27 @@ sort: "06"
 
 1. Установите пакеты и драйвера для работы с ключевыми носителями с помощью команд в терминале:
 
-	**sudo dpkg -i \<путь к файлу\>/cprocsp-rdr-pcsc-\<...\>.deb**  
+	**sudo dpkg -i <путь к файлу\>/cprocsp-rdr-pcsc-<...\>.deb**  
 
 2. Для ключевого носителя **Рутокен**:
 
-	**sudo dpkg -i \<путь к файлу\>/cprocsp-rdr-rutoken-\<...\>.deb**
+	**sudo dpkg -i <путь к файлу\>/cprocsp-rdr-rutoken-<...\>.deb**
 
-	**sudo dpkg -i \<путь к файлу\>/ifd-rutokens_\<...\>.deb**
+	**sudo dpkg -i <путь к файлу\>/ifd-rutokens_<...\>.deb**
 
 3. Для ключевого носителя **JaCarta**:
 
-	**sudo dpkg -i \<путь к файлу\>/cprocsp-rdr-jacarta -\<...\>.deb**
+	**sudo dpkg -i <путь к файлу\>/cprocsp-rdr-jacarta -<...\>.deb**
 
 4. Для ключевого носителя **ESMART**:
 
-	**sudo dpkg -i \<путь к файлу\>/cprocsp-rdr-esmart -\<...\>.deb**
+	**sudo dpkg -i <путь к файлу\>/cprocsp-rdr-esmart -<...\>.deb**
 
 ## Установка лицензии на КриптоПро CSP
 
 1. Откройте терминал.
-2. Введите лицензию командой:
-**sudo /opt/cprocsp/sbin/amd64/cpconfig -license -set \<серийный_номер\>** 
+2. Введите лицензию командой:  
+**sudo /opt/cprocsp/sbin/amd64/cpconfig -license -set <серийный_номер\>** 
 
 ***Примечание:*** серийный номер следует вводить с соблюдением регистра символов.
 
@@ -58,13 +58,13 @@ sort: "06"
 
 Для создания подписи со штампом времени или усовершенствованной подписи необходимо установить библиотеки поддержки модулей TSP и OCSP.
 
-1. Скачайте архив **Linux 64 бита** по ссылке <https://www.cryptopro.ru/products/cades/downloads> (требуется предварительная регистрация).  
+1. Скачайте архив **КриптоПро ЭЦП SDK 2.0** по ссылке <https://www.cryptopro.ru/products/cades/downloads> (требуется предварительная регистрация).  
 
 2. Распакуйте архив.  
 
 3. Установите пакет:
 
--   **sudo dpkg –i \<путь к файлу\>/cprocsp-pki-х.х.х-amd64-cades.deb** 
+-   **sudo dpkg –i <путь к файлу\>/cprocsp-pki-х.х.х-amd64-cades.deb** 
 
 Для создания подписи со штампом времени или усовершенствованной подписи необходима установка лицензии на модули TSP и/или OCSP.
 
@@ -73,20 +73,20 @@ sort: "06"
 ## Установка лицензии на модулей TSP и OCSP
 
 1. Откройте терминал.
-2. Введите лицензию на модуль TSP командой:
-**sudo /opt/cprocsp/bin/amd64/tsputil license -s \<серийный_номер\>** 
-3. Введите лицензию на модуль OCSP командой :
-**sudo /opt/cprocsp/bin/amd64/ocsputil license -s \<серийный_номер\>**
+2. Введите лицензию на модуль TSP командой:  
+**sudo /opt/cprocsp/bin/amd64/tsputil license -s <серийный_номер\>** 
+3. Введите лицензию на модуль OCSP командой :  
+**sudo /opt/cprocsp/bin/amd64/ocsputil license -s <серийный_номер\>**
 
 ***Примечание:*** серийный номер следует вводить с соблюдением регистра символов.
 
 ## Настройки для работы с КриптоПро CSP 4
 
 1. Установите пакет cprocsp-rsa из дистрибутива КриптоПро:   
-   **sudo dpkg -i \<путь к файлу\>/cprocsp-rsa-\<...\>.deb**
+   **sudo dpkg -i <путь к файлу\>/cprocsp-rsa-<...\>.deb**
 2. Скачайте скрипт https://drive.google.com/file/d/11Ts3wshs0-Fy7mc5NACKEb1x7fEu9oAy/view?usp=sharing  
 3. В терминале введите команду:  
-   **chmod u+x \<путь к скрипту\>/script.sh**
+   **chmod u+x <путь к скрипту\>/script.sh**
 4. Далее введите команду:  
-   **sudo bash \<путь к скрипту\>/script.sh**  
+   **sudo bash <путь к скрипту\>/script.sh**  
 	В результату выполнения команды должно быть сообщение Operations done.
