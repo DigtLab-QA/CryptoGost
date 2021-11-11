@@ -43,7 +43,7 @@ sort: "04"
 1. [Как экспортировать сертификат.](https://docs.cryptoarm.ru/06-v3.2-Beta/008-certs/export-my-cert)  
 2. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/06-v3.2-Beta/008-certs/import-UC-certs)  
 2. [Как импортировать список отзыва сертификатов (СОС).](https://docs.cryptoarm.ru/06-v3.2-Beta/008-certs/import-crl)  
-3. [Как создать запрос на сертификат.](https://docs.cryptoarm.ru/06-v3.2-Beta/007-cryptoarm/request)  
+3. [Как создать запрос на сертификат.](https://docs.cryptoarm.ru/06-v3.2-Beta/008-certs/request)  
 4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2-Beta/007-cryptoarm/notifications)  
 
 
