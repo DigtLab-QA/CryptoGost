@@ -49,7 +49,7 @@ const config = {
     description: 'Documentation built with mdx.',
     ogImage: null,
     docsLocation: '',
-    favicon: '',
+    favicon: 'https://raw.githubusercontent.com/DigtLab-QA/CryptoGost/master/src/images/cryptogost.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
