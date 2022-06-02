@@ -45,6 +45,6 @@ sort: "05"
 Сертификат привязывается к контакту.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/02-add-contact)  
-2. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/06-edit-contact)  
-3. [Как импортировать сертификаты других пользователей.](https://docs.cryptoarm.ru/06-v3.2/008-certs/06-import-certs)    
+1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/02-add-contact)  
+2. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/06-edit-contact)  
+3. [Как импортировать сертификаты других пользователей.](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/06-import-certs)    

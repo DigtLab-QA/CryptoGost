@@ -1,6 +1,6 @@
 ---
 slug: "/post01"
-title: "Настройки"
+title: "О программе"
 sort: "01"
 ---
 
@@ -18,5 +18,5 @@ sort: "01"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как работать с журналом событий.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/03-journal)  
-2. [Как работать с уведомлениями.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
+1. [Как работать с журналом событий.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/03-journal)  
+2. [Как работать с уведомлениями.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  

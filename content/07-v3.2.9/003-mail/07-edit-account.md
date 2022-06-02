@@ -132,11 +132,11 @@ sort: "07"
 2. Ошибка синхронизации аккаунта — в настройках почты проверьте корректность адреса электронной почты, настройки сервера входящей и исходящей почты.  
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить почтовый аккаунт.](https://docs.cryptoarm.ru/06-v3.2/003-mail/02-add-account)  
-2. [Как отправить подписанное и зашифрованное сообщение.](https://docs.cryptoarm.ru/06-v3.2/003-mail/06-send-sign-mail)  
-3. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/05-link-contact-cert)  
-4. [Как установить личный сертификат.](https://docs.cryptoarm.ru/06-v3.2/008-certs/01-import-my-cert)  
-5. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/06-v3.2/003-mail/03-send-mail)  
-6. [Группировка сообщений в цепочки.](https://docs.cryptoarm.ru/06-v3.2/003-mail/09-chain-mail)  
-7. [Как просматривать письма.](https://docs.cryptoarm.ru/06-v3.2/003-mail/04-view-mail)  
-8. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
+1. [Как добавить почтовый аккаунт.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/02-add-account)  
+2. [Как отправить подписанное и зашифрованное сообщение.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/06-send-sign-mail)  
+3. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/05-link-contact-cert)  
+4. [Как установить личный сертификат.](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/01-import-my-cert)  
+5. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/03-send-mail)  
+6. [Группировка сообщений в цепочки.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/09-chain-mail)  
+7. [Как просматривать письма.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/04-view-mail)  
+8. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  

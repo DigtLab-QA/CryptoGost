@@ -43,7 +43,7 @@ sort: "02"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/05-link-contact-cert)  
-2. [Как удалять локальные контакты.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/09-delete-contact)  
-3. [Как редактировать локальные контакты.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/06-edit-contact)  
-4. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/03-add-ldap)  
+1. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/05-link-contact-cert)  
+2. [Как удалять локальные контакты.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/09-delete-contact)  
+3. [Как редактировать локальные контакты.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/06-edit-contact)  
+4. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/03-add-ldap)  

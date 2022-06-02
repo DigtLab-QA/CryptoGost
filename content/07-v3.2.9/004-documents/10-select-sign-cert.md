@@ -54,8 +54,8 @@ sort: "11"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
 
-1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/02-create-profile)  
-2. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/06-edit-profile-sign)  
-3. [Как установить личный сертификат.](https://docs.cryptoarm.ru/06-v3.2/008-certs/01-import-my-cert)  
-4. [Как подписать документ.](https://docs.cryptoarm.ru/06-v3.2/004-documents/14-sign)
+1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/02-create-profile)  
+2. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/06-edit-profile-sign)  
+3. [Как установить личный сертификат.](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/01-import-my-cert)  
+4. [Как подписать документ.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/14-sign)
 

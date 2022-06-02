@@ -64,7 +64,7 @@ sort: "02"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**
   
-1. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/06-edit-profile-sign)  
-2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/08-select-profile)  
-3. [Как создать контакт.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/02-add-contact)  
-4. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/05-link-contact-cert)  
+1. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/06-edit-profile-sign)  
+2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/08-select-profile)  
+3. [Как создать контакт.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/02-add-contact)  
+4. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/05-link-contact-cert)  

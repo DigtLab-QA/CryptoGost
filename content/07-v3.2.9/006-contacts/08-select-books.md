@@ -17,6 +17,6 @@ sort: "08"
 При выборе активной адресной книги LDAP в левом боковом меню отображаются папки LDAP.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/03-add-ldap)  
-2. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/02-add-contact)  
-3. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/04-view-contact)  
+1. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/03-add-ldap)  
+2. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/02-add-contact)  
+3. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/04-view-contact)  

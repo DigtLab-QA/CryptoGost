@@ -24,4 +24,4 @@ sort: "02"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
 
-1. [Как работать с журналом событий.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/03-journal)  
+1. [Как работать с журналом событий.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/03-journal)  

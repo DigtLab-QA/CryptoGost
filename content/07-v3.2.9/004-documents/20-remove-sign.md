@@ -32,6 +32,6 @@ sort: "21"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
 
-1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/06-v3.2/004-documents/12-add-docs)  
-2.  [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
-3. [Действия с результатами операций.](https://docs.cryptoarm.ru/06-v3.2/004-documents/23-operations-result)  
+1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/12-add-docs)  
+2.  [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  
+3. [Действия с результатами операций.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/23-operations-result)  

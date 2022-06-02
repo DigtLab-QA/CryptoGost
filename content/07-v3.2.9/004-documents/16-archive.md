@@ -28,8 +28,8 @@ sort: "17"
 Чтобы каждый раз не задавать операцию в мастере подписи и шифрования, вы можете настроить профиль с архивированием и каталогами сохранения результатов и выбирать его.  
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/06-v3.2/004-documents/12-add-docs)  
-2. [Как создать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/02-create-profile)  
-3. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/08-select-profile)    
-4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
-5. [Действия с результатами операций.](https://docs.cryptoarm.ru/06-v3.2/004-documents/23-operations-result)  
+1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/12-add-docs)  
+2. [Как создать профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/02-create-profile)  
+3. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/08-select-profile)    
+4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  
+5. [Действия с результатами операций.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/23-operations-result)  

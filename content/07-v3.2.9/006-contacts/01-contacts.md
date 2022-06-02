@@ -38,9 +38,9 @@ sort: "01"
 - **Сертификаты** — используется для управления сертификатами.   
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/02-add-contact)  
-2. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/03-add-ldap)  
-3. [Как переключаться между адресными книгам.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/08-select-books)  
-4. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/04-view-contact)  
-5. [Как удалять локальные контакты.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/09-delete-contact)  
-6. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/06-v3.2/003-mail/03-send-mail)  
+1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/02-add-contact)  
+2. [Как добавить адресную книгу LDAP.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/03-add-ldap)  
+3. [Как переключаться между адресными книгам.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/08-select-books)  
+4. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/04-view-contact)  
+5. [Как удалять локальные контакты.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/09-delete-contact)  
+6. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/03-send-mail)  

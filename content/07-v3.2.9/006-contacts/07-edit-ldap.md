@@ -21,6 +21,6 @@ sort: "07"
 1. Не удалось подключиться к LDAP — проверьте правильность заполнения полей имя сервера и порт. Проверьте имя пользователя и пароль.
 
  **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как удалить адресную книгу LDAP.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/11-delete-ldap)   
-2. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/04-view-contact)  
-3. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
+1. [Как удалить адресную книгу LDAP.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/11-delete-ldap)   
+2. [Как посмотреть информацию о контакте.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/04-view-contact)  
+3. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  

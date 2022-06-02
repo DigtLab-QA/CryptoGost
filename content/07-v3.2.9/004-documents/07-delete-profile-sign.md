@@ -15,6 +15,6 @@ sort: "07"
 Нельзя удалить профиль, выбранный по умолчанию.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/02-create-profile)  
-2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/08-select-profile)  
-3. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/06-edit-profile-sign)  
+1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/02-create-profile)  
+2. [Как переключаться между профилями подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/08-select-profile)  
+3. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/06-edit-profile-sign)  

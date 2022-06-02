@@ -29,8 +29,8 @@ sort: "13"
    - нажмите кнопку **Загрузить с компьютера** для пустого поиска файлов или  кнопку **Добавить файл** на панели действий, а затем в файловом менеджере выберите необходимые документы.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как подписать документ.](https://docs.cryptoarm.ru/06-v3.2/004-documents/14-sign)  
-4. [Как зашифровать документ.](https://docs.cryptoarm.ru/06-v3.2/004-documents/15-cipher)  
-5. [Как расшифровать документ.](https://docs.cryptoarm.ru/06-v3.2/004-documents/17-decrypt)  
-6. [Как снять подпись с документа.](https://docs.cryptoarm.ru/06-v3.2/004-documents/20-remove-sign)
+1. [Как подписать документ.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/14-sign)  
+4. [Как зашифровать документ.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/15-cipher)  
+5. [Как расшифровать документ.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/17-decrypt)  
+6. [Как снять подпись с документа.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/20-remove-sign)
 

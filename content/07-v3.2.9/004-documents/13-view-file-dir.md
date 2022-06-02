@@ -13,6 +13,6 @@ sort: "14"
 При множественном выборе документов данная опция недоступна.  
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/add-docs)  
-4. [Как посмотреть информацию о документе.](https://docs.cryptoarm.ru/06-v3.2-Beta/004-documents/view-docs-info)  
+1. [Как добавить документы в мастер.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/12-add-docs)  
+4. [Как посмотреть информацию о документе.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/03-view-docs-info)  
 

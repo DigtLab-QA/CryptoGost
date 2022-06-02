@@ -13,5 +13,5 @@ sort: "06"
 5. Нажмите кнопку **Сохранить**.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/02-add-contact)  
-2. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/05-link-contact-cert)  
+1. [Как добавить локальный контакт.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/02-add-contact)  
+2. [Как привязать сертификат к контакту.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/05-link-contact-cert)  

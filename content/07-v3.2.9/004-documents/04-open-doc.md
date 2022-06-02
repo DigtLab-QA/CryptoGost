@@ -30,5 +30,5 @@ sort: "04"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как посмотреть информацию о документе.](https://docs.cryptoarm.ru/06-v3.2/004-documents/03-view-docs-info)  
-2. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
+1. [Как посмотреть информацию о документе.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/03-view-docs-info)  
+2. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  

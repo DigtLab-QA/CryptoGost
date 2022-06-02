@@ -22,7 +22,7 @@ sort: "04"
 Вы можете написать письмо контакту и удалить контакт.   
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/06-edit-contact)  
-2. [Как переключаться между адресными книгами.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/08-select-books)  
+1. [Как редактировать локальный контакт.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/06-edit-contact)  
+2. [Как переключаться между адресными книгами.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/08-select-books)  
 
 

@@ -43,6 +43,6 @@ sort: "24"
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
 
-1. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
-5. [Как проверить подпись.](https://docs.cryptoarm.ru/06-v3.2/004-documents/18-verify)  
-6. [Как открыть документ для просмотра.](https://docs.cryptoarm.ru/06-v3.2/004-documents/04-open-doc)  
+1. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  
+5. [Как проверить подпись.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/18-verify)  
+6. [Как открыть документ для просмотра.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/04-open-doc)  

@@ -17,6 +17,6 @@ sort: "08"
 Всегда есть выбранный активный профиль. 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/02-create-profile)  
-2. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/06-edit-profile-sign)  
-3. [Как удалить профиль подписи.](https://docs.cryptoarm.ru/06-v3.2/004-documents/07-delete-profile-sign)  
+1. [Как создать профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/02-create-profile)  
+2. [Как редактировать профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/06-edit-profile-sign)  
+3. [Как удалить профиль подписи.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/07-delete-profile-sign)  

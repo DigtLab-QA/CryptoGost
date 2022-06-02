@@ -1,5 +1,5 @@
 ---
-title: "Настройки"
+title: "Описание программы"
 metaTitle: "КриптоАРМ ГОСТ"
 metaDescription: "This is the meta description for this page"
 ---

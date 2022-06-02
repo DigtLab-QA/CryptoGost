@@ -17,5 +17,5 @@ sort: "14"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить почтовый аккаунт.](https://docs.cryptoarm.ru/06-v3.2/003-mail/02-add-account)   
-2. [Как редактировать настройки почты.](https://docs.cryptoarm.ru/06-v3.2/003-mail/07-edit-account)  
+1. [Как добавить почтовый аккаунт.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/02-add-account)   
+2. [Как редактировать настройки почты.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/07-edit-account)  

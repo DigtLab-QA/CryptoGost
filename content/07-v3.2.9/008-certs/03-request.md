@@ -37,8 +37,8 @@ sort: "03"
 Для просмотра подробного описания ошибки или отправки в техническую поддержку нажмите кнопку **Перейти в журнал** в правой боковой панели списка уведомлений.
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/06-v3.2/008-certs/05-import-UC-certs)  
-2. [Как импортировать список отзыва сертификатов (СОС).](https://docs.cryptoarm.ru/06-v3.2/008-certs/07-import-crl)  
-4. [Как установить личный сертификат.](https://docs.cryptoarm.ru/06-v3.2/008-certs/01-import-my-cert)  
-5. [Как создать самоподписанный сертификат.](https://docs.cryptoarm.ru/06-v3.2/008-certs/04-self-signed-cert)  
-6.  [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
+1. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/05-import-UC-certs)  
+2. [Как импортировать список отзыва сертификатов (СОС).](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/07-import-crl)  
+4. [Как установить личный сертификат.](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/01-import-my-cert)  
+5. [Как создать самоподписанный сертификат.](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/04-self-signed-cert)  
+6.  [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  
