@@ -50,8 +50,8 @@ sort: "02"
 2. Ошибка синхронизации аккаунта — в настройках почты проверьте корректность адреса электронной почты, настройки сервера входящей и исходящей почты.  
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как почтовый аккаунт сделать активным.](https://docs.cryptoarm.ru/06-v3.2/003-mail/14-select-account)  
-2. [Как редактировать настройки почты.](https://docs.cryptoarm.ru/06-v3.2/003-mail/07-edit-account)  
-3. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/06-v3.2/003-mail/03-send-mail)  
-4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
+1. [Как почтовый аккаунт сделать активным.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/14-select-account)  
+2. [Как редактировать настройки почты.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/07-edit-account)  
+3. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/03-send-mail)  
+4. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  
 

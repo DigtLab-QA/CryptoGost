@@ -84,11 +84,11 @@ sort: "03"
 
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как добавить почтовый аккаунт.](https://docs.cryptoarm.ru/06-v3.2/003-mail/02-add-account)  
-2. [Как отправить подписанное и зашифрованное сообщение.](https://docs.cryptoarm.ru/06-v3.2/003-mail/06-send-sign-mail)    
-3. [Как настроить отправку писем с уведомлениями о доставке и прочтении.](https://docs.cryptoarm.ru/06-v3.2/003-mail/08-send-mail-notify)  
-5. [Как редактировать настройки почты.](https://docs.cryptoarm.ru/06-v3.2/003-mail/07-edit-account)  
-6. [Группировка сообщений в цепочки.](https://docs.cryptoarm.ru/06-v3.2/003-mail/09-chain-mail)  
-7. [Как создать контакт.](https://docs.cryptoarm.ru/06-v3.2/006-contacts/02-add-contact)   
-8. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/06-v3.2/007-cryptoarm/02-notifications)  
+1. [Как добавить почтовый аккаунт.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/02-add-account)  
+2. [Как отправить подписанное и зашифрованное сообщение.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/06-send-sign-mail)    
+3. [Как настроить отправку писем с уведомлениями о доставке и прочтении.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/08-send-mail-notify)  
+5. [Как редактировать настройки почты.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/07-edit-account)  
+6. [Группировка сообщений в цепочки.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/09-chain-mail)  
+7. [Как создать контакт.](https://docs.cryptoarm.ru/07-v3.2.9/006-contacts/02-add-contact)   
+8. [Как посмотреть уведомления.](https://docs.cryptoarm.ru/07-v3.2.9/007-cryptoarm/02-notifications)  
 

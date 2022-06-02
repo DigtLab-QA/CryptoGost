@@ -121,13 +121,13 @@ sort: "05"
 Вы можете **Переслать все**, **Раскрыть все** письма цепочки (раскрывает или скрывает все письма в цепочке), **Распечатать**, выбрав в строке с темой действие  ![chain-menu.png](./images/chain-menu.png "Меню действий для цепочки писем").   
 
 **ИНСТРУКЦИИ ПО ТЕМЕ:**  
-1. [Как открыть письмо.](https://docs.cryptoarm.ru/06-v3.2/003-mail/04-view-mail)  
-2. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/06-v3.2/003-mail/03-send-mail)  
-3. [Как расшифровать документ.](https://docs.cryptoarm.ru/06-v3.2/004-documents/17-decrypt)   
-4. [Как снять подпись с документа.](https://docs.cryptoarm.ru/06-v3.2/004-documents/20-remove-sign)   
-5. [Как проверить подпись документа.](https://docs.cryptoarm.ru/06-v3.2/004-documents/18-verify)   
-6. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/06-v3.2/008-certs/05-import-UC-certs)  
-7. [Как импортировать список отзыва сертификатов (СОС).](https://docs.cryptoarm.ru/06-v3.2/008-certs/07-import-crl)  
-8. [Как установить личный сертификат.](https://docs.cryptoarm.ru/06-v3.2/008-certs/01-import-my-cert)  
-9. [Как удалять и восстанавливать удаленные письма.](https://docs.cryptoarm.ru/06-v3.2/003-mail/11-delete-mail)  
-10. [Группировка сообщений в цепочки.](https://docs.cryptoarm.ru/06-v3.2/003-mail/09-chain-mail)  
+1. [Как открыть письмо.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/04-view-mail)  
+2. [Как отправлять электронные письма.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/03-send-mail)  
+3. [Как расшифровать документ.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/17-decrypt)   
+4. [Как снять подпись с документа.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/20-remove-sign)   
+5. [Как проверить подпись документа.](https://docs.cryptoarm.ru/07-v3.2.9/004-documents/18-verify)   
+6. [Как установить корневой и промежуточный сертификаты.](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/05-import-UC-certs)  
+7. [Как импортировать список отзыва сертификатов (СОС).](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/07-import-crl)  
+8. [Как установить личный сертификат.](https://docs.cryptoarm.ru/07-v3.2.9/008-certs/01-import-my-cert)  
+9. [Как удалять и восстанавливать удаленные письма.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/11-delete-mail)  
+10. [Группировка сообщений в цепочки.](https://docs.cryptoarm.ru/07-v3.2.9/003-mail/09-chain-mail)  
