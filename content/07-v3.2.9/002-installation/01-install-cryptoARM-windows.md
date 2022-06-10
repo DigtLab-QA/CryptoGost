@@ -1,6 +1,6 @@
 ---
 slug: "/post1"
-title: "Установка КриптоАРМ ГОСТ на платформу Microsoft Windows"
+title: "Установка КриптоАРМ ГОСТ 3 на платформу Microsoft Windows"
 sort: "01"
 ---
 

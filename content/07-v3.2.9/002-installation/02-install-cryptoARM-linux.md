@@ -1,6 +1,6 @@
 ---
 slug: "/post2"
-title: "Установка КриптоАРМ ГОСТ на платформу Linux"
+title: "Установка КриптоАРМ ГОСТ 3 на платформу Linux"
 sort: "02"
 ---
 
@@ -19,7 +19,7 @@ sort: "02"
 
 **С помощью командной строки** нужно запустить терминал и ввести команду:
 
-- **sudo dpkg -i cryptoarm-gost-vx.x.x-x64.deb** - для ОС, основанных на Debian (Debian/Ubuntu);
+- **sudo dpkg -i cryptoarm-gost-vx.x.x-x64.deb** - для ОС, основанных на DEB;
 
 - **sudo rpm -i cryptoarm-gost-vx.x.x-x64.rpm** - для ОС, основанных на RPM;
 
