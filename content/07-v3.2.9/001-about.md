@@ -9,7 +9,9 @@ metaDescription: "This is  the meta description for this page"
 # Оглавление
 
 [Функциональность версии](https://docs.cryptoarm.ru/07-v3.2.9/001-about/01-function)
+
 [Назначение и условия применения](https://docs.cryptoarm.ru/07-v3.2.9/001-about/02-purpose)
+
 [Оценка приложения](https://docs.cryptoarm.ru/07-v3.2.9/001-about/03-estimate)
 
 
