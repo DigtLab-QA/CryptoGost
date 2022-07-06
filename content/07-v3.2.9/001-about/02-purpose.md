@@ -43,10 +43,10 @@ sort: "2"
 
 ## Поддерживаемые операционные системы
 
-Microsoft Windows 10 64bit.  
-Ubuntu 20.04.
-MacOS
-Astra Linux
+Microsoft Windows 10 64bit.    
+Ubuntu 20.04.  
+MacOS 10.13.  
+Astra Linux 1.7.  
 
 Следует учесть, что для работы необходима установка криптопровайдера КриптоПро CSP.
 
