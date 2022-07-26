@@ -1,4 +1,3 @@
-<!--- Here's my comment --->
 ---
 title: "О продукте"
 metaTitle: "КриптоАРМ ГОСТ"
