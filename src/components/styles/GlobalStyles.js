@@ -351,7 +351,7 @@ export const baseStyles = css`
     font-weight: 500;
     line-height: 1em;
     opacity: 1;
-    padding: 10px 15px;
+    padding: 10px 0;
   }
   .navBarNav {
     display: flex;
