@@ -122,7 +122,7 @@ const searchClient = algoliasearch(
 export default function SearchComponent({ indices, collapse, hitsAsGrid }) {
   const ref = createRef();
 
-  const [query, setQuery] = useState(``);results
+  const [query, setQuery] = useState(``);
 
   const [focus, setFocus] = useState(false);
 
