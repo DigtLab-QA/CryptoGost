@@ -211,7 +211,7 @@ export const baseStyles = css`
     color: #C2C2C2;
     padding: 10px;
     border-radius: 5px;
-    color: #fff;
+    color: #000;
     opacity: .6;
     padding-left: 38px;
     max-width: 600px;
