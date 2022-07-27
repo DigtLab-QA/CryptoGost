@@ -98,7 +98,7 @@ const Root = styled.div`
 
 const Results = connectStateResults(
   ({ searching, searchState: state, searchResults: res }) =>
-    (searching && `Searching...`) || (res && res.nbHits === 0 && `No results for '${state.query}'`)
+    (searching && `Searching...`) || (res && res.nbHits === 0 && `Нет найдено '${state.query}'`)
 );
 
 const useClickOutside = (ref, handler, events) => {
@@ -122,7 +122,7 @@ const searchClient = algoliasearch(
 export default function SearchComponent({ indices, collapse, hitsAsGrid }) {
   const ref = createRef();
 
-  const [query, setQuery] = useState(``);
+  const [query, setQuery] = useState(``);results
 
   const [focus, setFocus] = useState(false);
 
