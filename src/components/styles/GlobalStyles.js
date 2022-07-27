@@ -40,6 +40,11 @@ export const baseStyles = css`
   body {
     font-family: 'Roboto';
   }
+  
+  .css-utzlxm{
+    display:none;
+  }
+  
   .visibleMobile {
     display: none;
   }
