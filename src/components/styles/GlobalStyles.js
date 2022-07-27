@@ -322,7 +322,7 @@ export const baseStyles = css`
     height: 80px;
   }
   .navBarHeader {
-    min-width: 335px;
+    min-width: 398px;
     padding-right: 20px;
     display: flex;
     align-items: center;
