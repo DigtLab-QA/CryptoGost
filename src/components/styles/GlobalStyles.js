@@ -11,7 +11,7 @@ export const baseStyles = css`
   }
   ::-webkit-input-placeholder {
     /* Edge */
-    color: #c2c2c2;
+    color: #000;
   }
 
   aside::-webkit-scrollbar {
@@ -193,6 +193,7 @@ export const baseStyles = css`
   .formElement {
     background-color: transparent;
     padding: 4px;
+    padding-left: 0;
     border-radius: 5px;
     position: relative;
   }
@@ -201,11 +202,11 @@ export const baseStyles = css`
     border: none;
   }
   .formElement svg path {
-    fill: #2fd2c5;
+    fill: rgb(204, 69, 51);
   }
   .searchInput {
     width: 100%;
-    background-color: rgba(28,211,198,.12) !important;
+   
     border-width: 0 !important;
     color: #C2C2C2;
     padding: 10px;
@@ -220,7 +221,7 @@ export const baseStyles = css`
   .searchInput:hover,
   .searchInput:focus-within {
     outline: none;
-    border: 0;
+    border: 0;formEle
   }
   .searchWrapper {
     padding-left: 0px;
