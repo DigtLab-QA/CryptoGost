@@ -14,6 +14,25 @@ export const baseStyles = css`
     color: #c2c2c2;
   }
 
+  aside::-webkit-scrollbar {
+    width: 8px; 
+  }   
+
+  aside::-webkit-scrollbar-track {
+    background: #fff !important;
+    border-radius: 8px; 
+  }        
+
+  aside::-webkit-scrollbar-track {
+    background: rgb(204, 69, 51); 
+    border-radius: 8px; 
+  }
+
+  aside::-webkit-scrollbar-thumb {
+    background: rgba(204,69,51,.12) !important;
+    border-radius: 8px;
+  }
+
   :-ms-input-placeholder {
     /* Internet Explorer */
     color: #c2c2c2;
@@ -46,11 +65,30 @@ export const baseStyles = css`
   }
   
   .css-utzlxm .switch{
-    display:none;
+    display:none !important;
   }
   
   .visibleMobile {
     display: none;
+
+  aside::-webkit-scrollbar {
+    width: 8px; 
+  }   
+
+  aside::-webkit-scrollbar-track {
+    background: #fff !important;
+    border-radius: 8px; 
+  }        
+
+  aside::-webkit-scrollbar-track {
+    background: #2186f0; 
+    border-radius: 8px; 
+  }
+
+  aside::-webkit-scrollbar-thumb {
+    background: rgba(33,134,240,.12) !important;
+    border-radius: 8px;
+}
   }
   .visibleMobileView {
     display: none !important;
