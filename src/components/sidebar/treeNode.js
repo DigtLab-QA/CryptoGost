@@ -21,6 +21,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   const active =
     location && (location.pathname === url || location.pathname === config.gatsby.pathPrefix + url);
 
+  const actived = location.pathname;
+  
   const calculatedClassName = `${className} item ${active ? 'active' : ''}`;
 
   return (
@@ -29,7 +31,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         <Link to={url}>
           {title}
           {!config.sidebar.frontLine && title && hasChildren ? (
-            <button onClick={collapse} aria-label="collapse" className="collapser">
+            <button onClick={collapse} aria-label="collapse" className="collapser" data={actived}>
               {!isCollapsed ? <OpenedSvg /> : <ClosedSvg />}
             </button>
           ) : null}
