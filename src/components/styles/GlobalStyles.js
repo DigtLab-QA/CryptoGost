@@ -45,6 +45,10 @@ export const baseStyles = css`
     display:none;
   }
   
+  .css-utzlxm .switch{
+    display:none;
+  }
+  
   .visibleMobile {
     display: none;
   }
