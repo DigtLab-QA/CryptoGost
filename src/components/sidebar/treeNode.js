@@ -14,10 +14,11 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   const hasChildren = items.length !== 0;
 
   let location = '';
-
+  const actived ='';
+  
   if (typeof document != 'undefined') {
     location = document.location;
-    const actived = location.pathname;
+    actived = location.pathname.includes(url);
   }
   
   const active =
@@ -31,8 +32,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         <Link to={url}>
           {title}
           {!config.sidebar.frontLine && title && hasChildren ? (
-            <button onClick={collapse} aria-label="collapse" className="collapser" data={actived}>
-              {!isCollapsed ? <OpenedSvg /> : <ClosedSvg />}
+            <button onClick={collapse} aria-label="collapse" className="collapser">
+              {!isCollapsed || actived ? <OpenedSvg /> : <ClosedSvg />}
             </button>
           ) : null}
         </Link>
