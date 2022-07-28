@@ -13,7 +13,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
 
   const hasChildren = items.length !== 0;
 
-  let location = '';
+  let location;
   const actived ='';
   
   if (typeof document != 'undefined') {
