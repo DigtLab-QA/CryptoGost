@@ -33,13 +33,13 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
           {title}
           {!config.sidebar.frontLine && title && hasChildren ? (
             <button onClick={collapse} aria-label="collapse" className="collapser">
-              {!isCollapsed || actived ? <OpenedSvg /> : <ClosedSvg />}
+              {!isCollapsed ? <OpenedSvg /> : <ClosedSvg />}
             </button>
           ) : null}
         </Link>
       )}
 
-      {((!isCollapsed && hasChildren) || actived) ? (
+      {!isCollapsed && hasChildren ? (
         <ul>
           {items.map((item, index) => (
             <TreeNode
