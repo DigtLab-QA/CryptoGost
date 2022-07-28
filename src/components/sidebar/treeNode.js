@@ -39,7 +39,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         </Link>
       )}
 
-      {((!isCollapsed && hasChildren) || (actived && isCollapsed)) ? (
+      {((!isCollapsed && hasChildren) || actived) ? (
         <ul>
           {items.map((item, index) => (
             <TreeNode
