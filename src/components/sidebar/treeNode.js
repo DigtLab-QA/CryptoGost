@@ -18,7 +18,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   
   if (typeof document != 'undefined') {
     location = document.location;
-    actived = location.pathname.includes(url) && hasChildren;
+    actived = location.pathname.includes(url) === true && hasChildren;
   }
   
   const active =
