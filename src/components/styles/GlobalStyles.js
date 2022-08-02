@@ -64,7 +64,7 @@ export const baseStyles = css`
     display:none;
   }
   
-  .css-utzlxm .switch{
+  label.switch{
     display:none !important;
   }
   
